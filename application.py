@@ -5,3 +5,7 @@ app=application
 @application.route("/")
 def home():
     return "Hello From Nithi Shree"
+  
+if --name--=="--main--"
+     application.run(debug="true")
+  
